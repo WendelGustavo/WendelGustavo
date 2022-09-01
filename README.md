@@ -1,4 +1,4 @@
-## Olá!Hello, my name is Wendel Gustavo Fillmann!
+## Hello, my name is Wendel Gustavo Fillmann!
 
 I'm studying Javascript, React Native, PHP, Node.js and more.
 </br>
