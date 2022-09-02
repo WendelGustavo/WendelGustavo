@@ -1,8 +1,8 @@
 ## Hello, my name is Wendel Gustavo Fillmann!
 
-· I'm studying Javascript, React Native, PHP, Node.js and more.
+• I'm studying Javascript, React Native, PHP, Node.js and more.
 </br>
-· Currently working with front-end and back-end.
+• Currently working with front-end and back-end.
 
 ![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelGustavo&show_icons=true&theme=dracula&count_private=true$locale=pt-br)
 
