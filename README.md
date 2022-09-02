@@ -33,4 +33,5 @@ Focused on evolving my knowledge always aiming at my professional growth.
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div><br/>
+
 ![snake gif](https://github.com/WendelGustavo/WendelGustavo/blob/output/github-contribution-grid-snake.svg)
