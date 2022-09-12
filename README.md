@@ -17,6 +17,8 @@
 </div><br/>
 
 Focused on evolving my knowledge always aiming at my professional growth.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinikrummenauer&layout=compact&langs_count=16&hide_border=true&theme=tokyonight"/>
 
 ## Contact
 <div style="display: inline_block">
