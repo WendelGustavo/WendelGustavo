@@ -1,14 +1,14 @@
-## Hello, my name is Wendel Gustavo Fillmann!
+## Olá, meu nome é Wendel Gustavo Fillmann!
 
-• I'm studying Javascript, React Native, PHP, Node.js and more.
+• Estou estudando Javascript, React Native, PHP, Node.js e muito mais.
 </br>
-• Currently working with front-end and back-end.
+• Atualmente estudando front-end e back-end.
 
 ![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelGustavo&show_icons=true&theme=dracula&count_private=true$locale=pt-br)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelGustavo&layout=compact&langs_count=16&hide_border=true&theme=dracula"/>
 
-## Contact
+## Contatos
 <div style="display: inline_block">
   <a href="https://www.instagram.com/wendel_gustaa/"target="_blank">
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
