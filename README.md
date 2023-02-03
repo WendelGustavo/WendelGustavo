@@ -24,4 +24,5 @@
   </a>
 </div><br/>
 
+
 ![snake gif](https://github.com/WendelGustavo/WendelGustavo/blob/output/github-contribution-grid-snake.svg)
