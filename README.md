@@ -7,8 +7,9 @@
 
 ![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelGustavo&show_icons=true&theme=dracula&count_private=true$locale=pt-br)
 
-   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelGustavo&layout=compact&langs_count=16&hide_border=true&theme=dracula"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelGustavo&layout=compact&langs_count=16&hide_border=true&theme=dracula"/>
   
+![](https://komarev.com/ghpvc/?username=WendelGustavo&color=blueviolet)
 ## Contatos
 <div style="display: inline_block">
   <a href="https://www.instagram.com/wendel_gustaa/"target="_blank">
