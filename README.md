@@ -5,7 +5,7 @@
 • Atualmente trabalhando como desenvolvedor Full Stack em um projeto associado a Faculdade Faccat.
 </br>
 
-![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=dracula&count_private=true$locale=pt-br)
+![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelGustavo&show_icons=true&theme=dracula&count_private=true$locale=pt-br)
 
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelGustavo&layout=compact&langs_count=16&hide_border=true&theme=dracula"/>
   
