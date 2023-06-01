@@ -2,7 +2,7 @@
 
 • Estou estudando Javascript, React Native, PHP, Node.js, Python e muito mais.
 </br>
-• Atualmente trabalhando como desenvolvedor Full Stack em um projeto associado a Faculdade Faccat.
+• Atualmente trabalhando como desenvolvedor Full Stack em um projeto associado a Faculdade Faccat. 
 </br>
 
 ![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelGustavo&show_icons=true&theme=dracula&count_private=true$locale=pt-br)
