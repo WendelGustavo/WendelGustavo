@@ -1,6 +1,7 @@
 ## Olá, meu nome é Wendel Gustavo Fillmann!
 
-• Estou estudando Javascript, React Native, PHP, Node.js, Python e muito mais.
+• Estou cursando Ciência da Computação na Faculdade Feevale (1º Semestre).
+
 </br>
 • Atualmente trabalhando como desenvolvedor Full Stack em um projeto associado a Faculdade Faccat.  
 </br>
