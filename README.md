@@ -1,9 +1,9 @@
 ## Olá, meu nome é Wendel Gustavo Fillmann!
 
 • Estou cursando Ciência da Computação na Faculdade Feevale (1º Semestre). 
-</br>
+</br> 
 • Atualmente trabalhando como desenvolvedor Full Stack em um projeto associado a Faculdade Faccat.  
-</br>
+</br> 
 
 ![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelGustavo&show_icons=true&theme=dracula&count_private=true$locale=pt-br) 
 
