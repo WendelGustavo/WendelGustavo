@@ -1,6 +1,6 @@
 ## Olá, meu nome é Wendel Gustavo Fillmann! 
  
-•  Estou cursando Ciência da Computação na Faculdade Feevale ( 1º Semestre ).   
+•  Estou cursando Ciência da Computação na Faculdade Feevale ( 1º Semestre ).
 </br> 
 •  Atualmente trabalhando como desenvolvedor Full Stack em um projeto associado a Faculdade Faccat.
 </br> 
