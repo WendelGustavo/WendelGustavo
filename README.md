@@ -6,9 +6,7 @@
  </a>
 </p>
 
-<center>
 ## Olá, meu nome é Wendel Gustavo Fillmann! 
-</center>
  
 •  Estou cursando Ciência da Computação na Faculdade Feevale ( 1º Semestre ). 
 </br>
