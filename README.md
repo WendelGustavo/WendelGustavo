@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p dir="auto"> 
  <a target="_blank" rel="noopener noreferrer nofollow" 
  href="https://camo.githubusercontent.com/118c0af4c5dc732385fdee5a95db5cc902be307ca096202ec02d1f12def2c245/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d324537444544266865696768743d3130302673656374696f6e3d686561646572"><img width="100%" 
@@ -28,7 +29,7 @@
   <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/wendeldev" target="_blank">
-  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="wendeldev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wendeldev?trk=profile-badge">Wendel Fillmann</a></div>
   </a>
 </div>
 <br/>
