@@ -20,7 +20,7 @@
 <div style="display: inline_block"> 
   <a href="https://www.instagram.com/wendel_gustaa/"target="_blank">
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> 
   <a href="mailto:wendelgfillmann@gmail.com?subject=Hello!" target="_blank">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
