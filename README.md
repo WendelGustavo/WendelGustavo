@@ -4,7 +4,7 @@
  src="https://camo.githubusercontent.com/118c0af4c5dc732385fdee5a95db5cc902be307ca096202ec02d1f12def2c245/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d324537444544266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule- 
  render.vercel.app/api?type=waving&amp;color=2E7DED&amp;height=100&amp;section=header" style="max-width: 100%;">    
  </a>   
-</p>
+</p> 
 
 ## Olá, meu nome é Wendel Gustavo Fillmann! 
 •  Estou cursando Ciência da Computação na Faculdade Feevale ( 2º Semestre ). 
