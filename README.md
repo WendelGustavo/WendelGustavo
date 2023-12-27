@@ -5,7 +5,7 @@
  render.vercel.app/api?type=waving&amp;color=2E7DED&amp;height=100&amp;section=header" style="max-width: 100%;">    
  </a>   
 </p> 
-
+ 
 ## Olá, meu nome é Wendel Gustavo Fillmann! 
 •  Estou cursando Ciência da Computação na Faculdade Feevale ( 2º Semestre ). 
 </br> 
