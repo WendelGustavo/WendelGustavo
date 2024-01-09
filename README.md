@@ -1,10 +1,4 @@
-<p dir="auto">
- <a target="_blank" rel="noopener noreferrer nofollow"  
- href="https://camo.githubusercontent.com/118c0af4c5dc732385fdee5a95db5cc902be307ca096202ec02d1f12def2c245/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d324537444544266865696768743d3130302673656374696f6e3d686561646572"><img width="100%" 
- src="https://camo.githubusercontent.com/118c0af4c5dc732385fdee5a95db5cc902be307ca096202ec02d1f12def2c245/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d324537444544266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule- 
- render.vercel.app/api?type=waving&amp;color=2E7DED&amp;height=100&amp;section=header" style="max-width: 100%;">    
- </a>
-</p> 
+
  
 ## Olá, meu nome é Wendel Gustavo Fillmann! 
 •  Estou cursando Ciência da Computação na Faculdade Feevale ( 2º Semestre ). 
@@ -15,6 +9,10 @@
 ![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelGustavo&show_icons=true&theme=dracula&count_private=true$locale=pt-br)  
 
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelGustavo&layout=compact&langs_count=16&hide_border=true&theme=dracula"/>   
+
+
+## Habilidades:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    
 ## Contatos  
 <div style="display: inline_block"> 
@@ -36,10 +34,3 @@
 ![snake gif](https://github.com/WendelGustavo/WendelGustavo/blob/output/github-contribution-grid-snake.svg)
 
 
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow"     
-  href="https://camo.githubusercontent.com/556efbdb72986dc555b7a19f0b7b562aff1528d09ddc62f94a4f57f94f925805/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d324537444544266865696768743d3130302673656374696f6e3d666f6f746572"><img width="100%" 
-  src="https://camo.githubusercontent.com/556efbdb72986dc555b7a19f0b7b562aff1528d09ddc62f94a4f57f94f925805/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d324537444544266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule- 
-  render.vercel.app/api?type=waving&amp;color=2E7DED&amp;height=100&amp;section=footer" style="max-width: 100%;">
-</a>
-</p>
