@@ -1,7 +1,7 @@
 
  
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Wendel+Gustavo+Fillmann!)](https://git.io/typing-svg)
-•  Estou cursando Ciência da Computação na Faculdade Feevale ( 2º Semestre ).
+•  Estou cursando Ciência da Computação na Faculdade Feevale ( 4º Semestre ).
 </br> 
 •  Atualmente trabalhando como desenvolvedor Full Stack na [SAVEE](https://savee.it).
 </br>
